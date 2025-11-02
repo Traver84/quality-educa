@@ -1,0 +1,116 @@
+
+
+    
+  
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+width: 80px;
+
+}
+.logo img{
+    width: 100%;
+}
+nav{
+    flex: 1;
+    text-align: center;
+    background-color: bisque;
+}
+nav a{
+    margin-right: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    color: blueviolet;
+}
+h1{
+    color: blueviolet;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px;
+    padding: 30px;
+}
+.col-2{
+    flex-basis: 50%;
+}
+.col-2 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.col-2 h2{
+    color: darkcyan;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.col-2 p{
+    font-size: 20px;
+
+}
+
+
+.webpage{
+    background: radial-gradient(floralwhite,darkcyan);
+}
+.webpage-2{
+    background: radial-gradient(floralwhite,darkcyan);
+}
+.webpage-3{
+    background: radial-gradient(floralwhite,darkcyan);
+}
+.row-2{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px;
+    padding: 30px;
+}
+.col-3{
+    flex-basis: 50%;
+}
+.col-3 img{
+    width: 100%;
+    border-radius: 50%;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+header{
+    color: brown;
+}
+h4{
+    color: blueviolet;
+}
+h5{
+    color: blueviolet;
+}
+.row-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px;
+    padding: 30px;
+}
+.col-4{
+    flex-basis: 50%;
+}
+
+.col-4 h2{
+    color: darkcyan;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.col-4 p{
+    font-size: 20px;
+
+}
+
+
